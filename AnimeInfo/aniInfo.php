@@ -96,8 +96,8 @@ if (isset($_POST['title']) && $_POST['title'] !== '') {
 </div><!-- cont -->
 
 <footer>
-	<a href="http://mediaarts-db.jp"><img src="image/ban_small.jpg" alt="メディア芸術データベース"></a>
-	<small>出典:メディア芸術データベース（<a href="http://mediaarts-db.jp">http://mediaarts-db.jp</a>)を加工して作成しております</small>
+	<a href="http://mediaarts-db.jp" target="_blank"><img src="image/ban_small.jpg" alt="メディア芸術データベース"></a>
+	<small>出典:メディア芸術データベース（<a href="http://mediaarts-db.jp" target="_blank">http://mediaarts-db.jp</a>)を加工して作成しております</small>
 </footer>
 
 </body>
